@@ -1,0 +1,18 @@
+{
+    "Bob": [
+        "John",
+        "Jane"
+    ],
+    "Sue": [
+        "Jane",
+        "John"
+    ],
+    "John": [
+        "Bob",
+        "Sue"
+    ],
+    "Jane": [
+        "Sue",
+        "Bob"
+    ]
+}
